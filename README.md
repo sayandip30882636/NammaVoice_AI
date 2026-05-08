@@ -1,7 +1,8 @@
 # NammaVoice AI 🎙️
 ### Multilingual Speech Recognition & Locality Intelligence Benchmarking Platform
 
-NammaVoice AI is an end-to-end, research-oriented ASR evaluation and analytics engine engineered specifically for Indian hiring, voice telephony, and delivery pipelines. The system evaluates five major Automatic Speech Recognition (ASR) engines on complex, real-world Indian conversational speech containing Bangalore locality names spoken in Hindi, Hinglish, Kannada, and code-switched styles.
+NammaVoice AI is an end-to-end, research-oriented ASR evaluation and analytics engine engineered specifically for Indian hiring, voice telephony, and delivery pipelines. The system evaluates five major Automatic Speech Recognition (ASR) engines on complex, real-world Indian conversational speech containing Bangalore locality names spoken in Hindi, Hinglish, Kannada, and code-switched styles. 
+
 
 live link : https://namma-voice-ai.streamlit.app/
 
