@@ -122,4 +122,3 @@ python tests/test_pipeline.py
 4. **Production API Gateway**: Dockerize and expose the ASR evaluation pipeline as a scalable FastAPI endpoint.
 
 ---
-*Developed by Antigravity under Google Deepmind guidelines for advanced agentic coding. Copyright 2026.*
