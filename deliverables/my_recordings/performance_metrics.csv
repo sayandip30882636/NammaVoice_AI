@@ -1,0 +1,25 @@
+Timestamp,Audio_File,Ground_Truth,Deepgram_WER,Deepgram_Latency,Groq_WER,Groq_Latency,Whisper_WER,Whisper_Latency,Best_Model,Baseline_Comparison
+20260508_155318,sample_20260508_155318__Hey__Like__I_m_look.wav,"""Hey. Like, I'm looking for a job, as a delivery boy near. So, like, can you help?""",0.0,3.1,0.1111,1.08,0.0,1.25,Deepgram,Baseline is best
+20260508_155439,sample_20260508_155439__Mera_Pichla_kaam_In.wav,"""Mera Pichla kaam Indiranagar mein tha, ab naya dhoond raha hoon""",1.0,2.91,1.3636,1.18,1.0,1.25,Deepgram,Baseline is best
+20260508_155512,sample_20260508_155512__Mera_Pichla_kaam_In.wav,"""Mera Pichla kaam Indiranagar mein tha, ab naya dhoond raha hoon""",1.7273,2.98,1.7273,1.03,1.7273,1.25,Deepgram,Baseline is best
+20260508_155654,sample_20260508_155654__Sir__I_am_stuck_in_.wav,"""Sir, I am stuck in traffic near Whitefield. So, like, we'll reach in, ten minutes because, the traffic noise is, heavy at here.""",0.0,3.05,0.0417,0.98,0.0,1.25,Deepgram,Baseline is best
+20260508_155819,sample_20260508_155819__Electronic_City_ke_.wav,"""Electronic City ke raste mein bahut bheed hai, order late ho jayega.""",1.0833,3.84,2.0,1.23,1.0833,1.25,Deepgram,Baseline is best
+20260508_160003,sample_20260508_160003__Main_abhi_Marathaha.wav,"""Main abhi Marathahalli signal pe hoon, pickup kaha se karna hai?""",1.1818,3.34,1.4545,1.15,1.1818,1.25,Deepgram,Baseline is best
+20260508_160136,sample_20260508_160136__I_m_looking_for_a_j.wav,"""I'm looking for a job as a delivery boy near koramangala, can you help?""",0.1333,5.57,0.1333,1.36,0.1333,1.25,Deepgram,Baseline is best
+20260508_160400,sample_20260508_160400__Jayanagar_Office_ke.wav,"""Jayanagar Office ke pass pahuch gaya hoon, interview kab start hoga?""",1.1818,2.41,2.0,1.28,1.1818,1.25,Deepgram,Baseline is best
+20260508_160523,sample_20260508_160523__I_m_heading_to_HSR_.wav,"""I'm heading to HSR Layout for the delivery, please keep the gate open.""",0.1429,3.54,0.1429,1.28,0.1429,1.25,Deepgram,Baseline is best
+20260508_160903,sample_20260508_160903__BTM_Layout_pahunch_.wav,"""BTM Layout pahunch gaya hoon, customer ka phone nahi lag raha.""",0.8182,5.13,1.3636,1.98,0.8182,1.25,Deepgram,Baseline is best
+20260508_161106,sample_20260508_161106__Abhi_Majistic_Stati.wav,"""Abhi Majistic Station pe hu, train thodi late hai.""",0.8889,10.83,2.1111,2.56,0.8889,1.25,Deepgram,Baseline is best
+20260508_161423,sample_20260508_161423__The_silk_board_sign.wav,"""The silk board signal is taking forever today. Really sorry for the delay.""",0.0,6.1,0.0,0.55,0.0,1.25,Deepgram,Baseline is best
+20260508_161541,sample_20260508_161541__Bellandur_area_mein.wav,"""Bellandur area mein koi vacancy ha keya office assistent ke liye ??""",1.2727,3.41,2.1818,1.56,1.2727,1.25,Deepgram,Baseline is best
+20260508_161720,sample_20260508_161720__Mera_address_Sarjap.wav,"""Mera address Sarjapura road ke paas hai, keya waha delivery possible hai?""",1.0833,3.37,1.1667,1.5,1.0833,1.25,Deepgram,Baseline is best
+20260508_162331,sample_20260508_162331___I_have_two_years_o.wav,""" I have two years of experience working , near Bommanhalli in logistics.""",0.2727,2.96,0.1818,1.05,0.2727,1.25,Groq,Groq improved over Deepgram by 33.3%
+20260508_162456,sample_20260508_162456___KR_Puram_bridge_pe.wav,""" KR Puram bridge pe accident hua hai, pura rasta block hai.""",1.2727,3.27,1.8182,1.12,1.2727,1.25,Deepgram,Baseline is best
+20260508_162657,sample_20260508_162657___Calling_from_Peeny.wav,""" Calling from Peenya industrial area, regarding the supervisor role.""",0.3333,3.59,0.2222,1.35,0.3333,1.25,Groq,Groq improved over Deepgram by 33.3%
+20260508_162946,sample_20260508_162946___Yeshwanthpur_junct.wav,""" Yeshwanthpur junction cross kar liya hai, bas 5 minute mein aata hoon.""",1.6667,3.46,2.25,2.33,1.6667,1.25,Deepgram,Baseline is best
+20260508_163122,sample_20260508_163122___Hebbal_flyover_ke_.wav,""" Hebbal flyover ke paas rehta hoon, wahan se travel karna easy hoga.""",1.5,3.58,2.1667,1.06,1.5,1.25,Deepgram,Baseline is best
+20260508_163238,sample_20260508_163238__Is_the_job_location.wav,"""Is the job location in Yelahanka or somewhere closer to the city?""",0.0833,4.02,0.0833,1.15,0.0833,1.25,Deepgram,Baseline is best
+20260508_163407,sample_20260508_163407__Banashankari_mandir.wav,"""Banashankari mandir ke pass hoon bhai, yahan network thoda weak hai.""",1.5455,5.69,2.0,1.52,1.5455,1.25,Deepgram,Baseline is best
+20260508_163453,sample_20260508_163453___I_am_interested_in.wav,""" I am interested in the sales role for the Rajajinagar branch.""",0.1818,3.56,0.1818,1.05,0.1818,1.25,Deepgram,Baseline is best
+20260508_163556,sample_20260508_163556___Bolchi_HSR_Layout_.wav,""" Bolchi HSR Layout e kono ekhono chakrir vacancy ache ??""",1.6667,0.45,1.2222,1.49,1.6667,1.25,Groq,Groq improved over Deepgram by 26.7%
+20260508_163728,sample_20260508_163728___Nanage_Koramangala.wav,""" Nanage Koramangaladalli kelasa beku""",3.75,0.45,2.75,1.12,3.75,1.25,Groq,Groq improved over Deepgram by 26.7%
